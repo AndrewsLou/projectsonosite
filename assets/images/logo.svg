@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 511.99999 512.00001"
+   version="1.1"
+   id="svg3719"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="D:\Projects\sono\quasar-wallet\src\statics\icons\icon-512x512.png"
+   inkscape:export-xdpi="425.19031"
+   inkscape:export-ydpi="425.19031"
+   width="512"
+   height="512"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata3725">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3723" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3721"
+     showgrid="false"
+     inkscape:zoom="0.8756229"
+     inkscape:cx="-101.14358"
+     inkscape:cy="226.83411"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3719" />
+  <path
+     d="M 271.24003,59.727116 -10.931119,142.39264 219.97816,202.89086 403.78195,151.16718 Z"
+     id="path3713"
+     inkscape:connector-curvature="0"
+     style="fill:#0099cc;stroke-width:4.61818504" />
+  <path
+     d="M -10.931119,142.39264 150.24356,269.85456 522.93112,366.83645 352.98191,237.52727 Z"
+     id="path3715"
+     inkscape:connector-curvature="0"
+     style="fill:#00bee8;stroke-width:4.61818504" />
+  <path
+     d="M 522.93112,366.83645 249.53455,452.27288 116.99263,360.83281 309.10914,311.41823 Z"
+     id="path3717"
+     inkscape:export-filename="D:\Projects\sono\quasar-wallet\src\statics\icons\icon-512x512.png"
+     inkscape:export-xdpi="578.25885"
+     inkscape:export-ydpi="578.25885"
+     inkscape:connector-curvature="0"
+     style="fill:#006699;stroke-width:4.61818504" />
+</svg>
